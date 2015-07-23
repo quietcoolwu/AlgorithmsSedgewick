@@ -1,4 +1,6 @@
 import edu.princeton.cs.algs4.Stack;
+import edu.princeton.cs.introcs.StdIn;
+import edu.princeton.cs.introcs.StdOut;
 
 /*************************************************************************
  * % java Ex_1_3_04

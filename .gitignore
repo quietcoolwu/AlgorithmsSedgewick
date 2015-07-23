@@ -9,5 +9,5 @@ out
 gen
 *.txt
 *.csv
-
+*.class
 

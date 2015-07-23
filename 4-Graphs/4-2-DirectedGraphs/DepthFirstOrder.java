@@ -1,3 +1,8 @@
+import edu.princeton.cs.algs4.Queue;
+import edu.princeton.cs.algs4.Stack;
+import edu.princeton.cs.introcs.In;
+import edu.princeton.cs.introcs.StdOut;
+
 /*************************************************************************
  * Compilation:  javac DepthFirstOrder.java
  * Execution:    java DepthFirstOrder filename.txt

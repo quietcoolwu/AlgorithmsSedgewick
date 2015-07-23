@@ -30,7 +30,7 @@ public class Insertion {
     // use natural order and Comparable interface
     public static void sort(Comparable[] a) {
         int N = a.length;
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) {//N
             for (int j = i; j > 0 && less(a[j], a[j - 1]); j--) {
                 exch(a, j, j - 1);
             }
